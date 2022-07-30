@@ -19,4 +19,4 @@ When the browser is stretched wide:
 
 If you use the tools in the Advanced Grid Properties lesson you should be able to get your article cards to automatically fit as the browser window is adjusted:
 
-![desired outcome stretched](./desired-outcome-stretched.png)
+![desired outcome stretched](./imgs/desired-outcome3-stretched.png)
