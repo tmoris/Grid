@@ -311,7 +311,7 @@ h5 {
   background-color: #bccbde;
   color: #000;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(6.5em, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(7em, 1fr));
   gap: 0.5em;
   padding: 0.75em;
 }
@@ -349,6 +349,12 @@ h5 {
   font-size: 0.8125rem;
   font-weight: normal;
   margin: 0 auto;
+}
+
+@media (min-width: 64em) {
+  .main-content {
+    grid-template-columns: repeat(6, 1fr);
+  }
 }
 
 @media (max-width: 43.25em) {
