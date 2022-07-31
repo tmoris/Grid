@@ -1,4 +1,5 @@
-# Grid
+# Grid- The Odin Project grid practice
+This is a solution to the The Odin Project [https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css] grid practice. It is for helping me improve my coding skills by building realistic projects.
  Grid-practice exercise
 ## Grid layout ex1 Desired Outcome
 ![desired outcome](./imgs/desired-outcome.png)
