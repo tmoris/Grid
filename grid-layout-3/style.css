@@ -266,6 +266,7 @@ h5 {
   flex-direction: column;
   justify-content: space-around;
   padding-inline: 0.9735em;
+  padding-block: 0.5em;
 }
 
 .sidebar>* {
@@ -343,6 +344,7 @@ h5 {
   background-color: #393f4d;
   color: #fff;
   text-align: center;
+  padding-block: 2em;
 }
 
 .footer p {
